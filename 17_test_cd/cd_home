@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# test simple command /bin/ls
+# test simple command cd
 
 command="cd"
 tmp_file="checker_tmp_file_$RANDOM"
